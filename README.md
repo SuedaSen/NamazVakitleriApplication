@@ -2,8 +2,8 @@
 
 ##
 
-➡️   **Flutter ile temel http uygulaması** <br/> 
-➡️   **Uygulama İstanbul ili vakitlerine göre ayarlanmıştır** <br/> 
+➡️   **Flutter ile temel HTTP uygulaması.** <br/> 
+➡️   **Uygulama İstanbul ili vakitlerine göre ayarlanmıştır.** <br/> 
 ➡️   **Uygulama sadece namaz vakitlerini değil aynı zamanda günlük Ay değişimi de göstermektedir.** <br/> 
 ➡️   **Base Url: https://ezanvakti.herokuapp.com/vakitler?ilce=9534** <br/>
 ➡️   **EndPoint:( /.json )**<br/>
